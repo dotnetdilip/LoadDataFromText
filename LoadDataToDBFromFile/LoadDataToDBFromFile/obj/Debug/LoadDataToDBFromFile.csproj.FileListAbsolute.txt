@@ -1,0 +1,6 @@
+E:\Works\LoadDataToDBFromFile\LoadDataToDBFromFile\bin\Debug\LoadDataToDBFromFile.exe.config
+E:\Works\LoadDataToDBFromFile\LoadDataToDBFromFile\bin\Debug\LoadDataToDBFromFile.exe
+E:\Works\LoadDataToDBFromFile\LoadDataToDBFromFile\bin\Debug\LoadDataToDBFromFile.pdb
+E:\Works\LoadDataToDBFromFile\LoadDataToDBFromFile\obj\Debug\LoadDataToDBFromFile.csprojResolveAssemblyReference.cache
+E:\Works\LoadDataToDBFromFile\LoadDataToDBFromFile\obj\Debug\LoadDataToDBFromFile.exe
+E:\Works\LoadDataToDBFromFile\LoadDataToDBFromFile\obj\Debug\LoadDataToDBFromFile.pdb
